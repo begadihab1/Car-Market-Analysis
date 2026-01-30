@@ -1,7 +1,7 @@
 # 🚗 Used Car Market Analytics Dashboard
 ### *End-to-End BI Solution: From Raw Data to Executive Insights*
 
-![Dashboard Preview](Dashboard_Preview.png) 
+![Dashboard_Preview](Dashboard_Preview.png) 
 
 ## 📌 Project Overview
 This project transforms a raw dataset of over 1,000 used car listings into an interactive business intelligence tool. The goal was to identify the primary drivers of vehicle resale value and provide a user-friendly interface for market comparison and valuation.
