@@ -8,7 +8,6 @@ This project transforms a raw dataset of over 1,000 used car listings into an in
 
 **Key Deliverables:**
 * **Cleaned Dataset:** Processed via Power Query for 100% data integrity.
-* **Relational Data Model:** A Star-Schema inspired model with a dedicated DAX measures table.
 * **Executive Dashboard:** A protected, interactive UI for dynamic market analysis.
 
 ## 🛠️ Tech Stack & Methodologies
